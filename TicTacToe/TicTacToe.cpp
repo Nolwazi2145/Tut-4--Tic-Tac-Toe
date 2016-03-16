@@ -1,5 +1,5 @@
 #include "TicTacToe.h"
-
+using namespace std;
 
 TicTacToe::TicTacToe()
 {
